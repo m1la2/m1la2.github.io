@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<rss version = "2.0">
+	<channel>
+		<item>
+			<title>Obaveštenja</title>
+			<link>https://m1la2.github.io/</link>
+			<description>Kanal za obaveštenja</description>
+		</item>
+		<item>
+			<title>Nove usluge</title>
+			<link>https://m1la2.github.io/usluge.html</link>
+			<description>Pogledajte naše nove usluge</description>
+		</item>
+	</channel>
+</rss>
